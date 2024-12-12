@@ -11,14 +11,8 @@ const people = [
   {
     id: 1,
     name: "S.VIJAY KUMAR",
-    designation: "Co-Founder & CSO",
+    designation: "Co-Founder & Full stack developer",
     image: "/vijay.svg",
-  },
-  {
-    id: 2,
-    name: "Sunil",
-    designation: "CEO & HR",
-    image: "/sunil.svg",
   },
 ];
 
@@ -75,7 +69,7 @@ const Header = () => {
           </Button>
         </div>
         <h1 className="text-neutral-600 dark:text-neutral-200 text-xs sm:text-base mt-5">
-          Our Team
+          Developer
         </h1>
         <div className="flex flex-row items-center justify-center mb-10 mt-2 w-full">
           <AnimatedTooltip items={people} />

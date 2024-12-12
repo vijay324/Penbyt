@@ -1,13 +1,14 @@
 <h3 align="center">The Penbyt</h3>
 
    <div align="center">
-     A study material website <a href="https://www.jsmastery.pro" target="_blank"><b>Go to Penbyt</b></a> Website. Join the Penbyt family!
+     A study material website <a href="https://www.penbyt.com" target="_blank"><b>Go to Penbyt</b></a> Website. Join the Penbyt family!
     </div>
 <div align="center">
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+     <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logoColor=white&logo=docker&color=2496ED" alt="docker" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
     <img src="https://img.shields.io/badge/-ShadCN_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
@@ -23,7 +24,8 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Package Update](#Update)
+5. 📦 [Contribution Guid](#Contribution)
+6. 🔗 [How to update packages](#Update)
 
 ## 🚨 Alert
 
@@ -54,15 +56,15 @@ Join our active community on Discord, where you can connect with over 5,000 memb
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Authentication**: Secure sign-in with Clerk, supporting Email/Password, Google,facebook,and GitHub.
+👉 **Authentication**: Secure sign-in with Clerk, supporting Email/Password, Google and GitHub.
 
-👉 **Home Page**: Displays questions with filters, search, and pagination for easy navigation.
+👉 **content Page**: Displays questions with filters, search, and pagination for easy navigation.
 
-👉 **AI Answer Generation**: Get AI-generated responses to your study related questions.
+👉 **AI Answer Generation**: Get AI-generated responses to your study related questions. visit <a href="https://chat.penbyt.com" target="_blank"><b>PenGPT</b></a>
 
 👉 **Answer Filtering**: Sort by PUC and Engineering.
 
-👉 **Community**: Browse all users with search, filters, and pagination.
+👉 **Community**: We have active community on Discord.
 
 👉 **Responsive Design**: Fully optimized for a seamless experience on desktops, tablets, and mobile devices.
 
@@ -79,14 +81,16 @@ Follow these steps to set up the project locally on your machine.
 Make sure you have the following installed on your machine:
 
 - [Clerk](https://clerk.com) (Authentication Manager)
-- [Git](https://git-scm.com/)
+- [MongoDB](https://mongodb.com/)
 - [Node.js](https://nodejs.org/en)
+- [Git](https://git-scm.com/)
+- [Docker](https://www.docker.com/products/docker-desktop/)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/vijay324/Penbyt-Beta.git
+git clone https://github.com/vijay324/Penbyt.git
 cd Penbyt
 ```
 
@@ -122,16 +126,180 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="Update">For update Packages:</a>
+# <a name="Contribution">📦 Contribution Guide :</a>
+
+Thank you for your interest in contributing to Penbyt! This guide will help you get started with contributing to our project.
+
+## Table of Contents
+
+- 📐 [Setting Up for Contributors](#setting-up-for-first-time-contributors)
+
+- 👩🏻‍💻[Development Workflow](#development-workflow)
+- 🚩[Pull Request Guidelines](#pull-request-guidelines)
+- 📜 [Code Style Guidelines](#code-style-guidelines)
+- 🧾 [Commit Message Guidelines](#commit-message-guidelines)
+
+## Setting Up for Contributors
+
+1. **Install Required Tools**
+
+   - Git ([Download](https://git-scm.com/downloads))
+   - Node.js ([Download](https://nodejs.org/))
+   - A code editor (We recommend VS Code)
+
+2. **Set Up GitHub Account**
+
+   ```bash
+   # Configure your Git username and email
+   git config --global user.name "Your Name"
+   git config --global user.email "your.email@example.com"
+   ```
+
+## Development Workflow
+
+1. **Clone the Repository**
+
+   ```bash
+   # Clone via SSH
+   git clone git@github.com:svk324/Penbyt.git
+
+   # OR clone via HTTPS (recommended)
+   git clone https://github.com/svk324/Penbyt.git
+
+   # Navigate to project directory
+   cd Penbyt
+   ```
+
+2. **Set Up Development Environment**
+
+   ```bash
+   # Install dependencies
+   npm install
+
+   # Create and configure .env file
+   cp .env.local (or) .env
+   # Edit .env with your credentials
+
+   # Start development server
+   npm run dev
+   ```
+
+3. **Create a New Branch**
+
+   ```bash
+   # Ensure you're on main and up-to-date
+   git checkout main
+   git pull origin main
+
+   # Create and switch to a new branch
+   git checkout -b feature/your-feature-name
+   # OR
+   git checkout -b fix/bug-description
+   ```
+
+4. **Make Your Changes**
+
+   - Write your code
+   - Test your changes locally
+
+5. **Commit Your Changes**
+
+   ```bash
+   # Add changed files
+   git add .
+
+   # Commit with meaningful message
+   git commit -m "feat: add new study material feature"
+   ```
+
+6. **Push Changes and Create PR**
+   ```bash
+   # Push your branch
+   git push origin feature/your-feature-name
+   ```
+   - Go to GitHub and create a Pull Request
+   - Fill in the PR template with necessary details
+
+## Pull Request Guidelines
+
+- **Title**: Use clear, descriptive titles
+
+  - Format: `[Type] Brief description`
+  - Example: `[Feature] Add PUC study materials section`
+
+- **Description**:
+
+  ```markdown
+  ## Changes Made
+
+  - Detailed list of changes
+  - Impact on existing features
+
+  ## Additional Notes
+
+  - Any other relevant information
+  ```
+
+## Code Style Guidelines
+
+1. **TypeScript**
+
+   - Use meaningful variable names
+   - Add type annotations
+   - Follow ES6+ conventions
+
+2. **React/Next.js**
+
+   - Use functional components
+   - Implement proper error handling
+
+3. **Tailwind CSS**
+   - Use utility classes consistently
+   - Follow mobile-first approach
+   - Use ShadCN UI components when possible
+
+## Commit Message Guidelines
+
+Follow the Conventional Commits specification:
+
+```bash
+# Format
+type(scope): description
+
+# Examples
+feat(auth): add Google authentication
+fix(ui): resolve mobile navigation issue
+docs(readme): update installation steps
+```
+
+Use short-cut words:
+
+- `feat`: New feature
+- `fix`: Bug fix
+- `docs`: Documentation changes
+- `style`: Code style changes
+- `refactor`: Code refactoring
+- `test`: Testing changes
+- `chore`: Maintenance tasks
+
+## <a name="Update">🔗 For update Packages :</a>
 
 ```bash
 npm install -g npm-check-updates
-# then
+# next
 npx npm-check-updates
-# then
+# next
 npx npm-check-updates -u
-# then
+# next
 npm install
 ```
 
+## Need Help?
+
+- Join our Discord community
+- Check existing issues and pull requests
+- Reach out to project maintainers or mail to team@penbyt.com
+
 #
+
+Happy Coding 😊
