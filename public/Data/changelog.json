@@ -1,0 +1,19 @@
+{
+  "versions": {
+    "1.0.0": [
+      {
+        "title": "This Website Launched",
+        "subtitle": "On 25-03-2023",
+        "description": "Helping to students access there academic content especially RGUKT RK VALLEY Students. "
+      }
+    ],
+    "2.0.0": [
+      {
+        "title": "V2.0 New Features & Upgrades",
+        "subtitle": "Released on 07 September 2024",
+        "image": "/Data/v2.png",
+        "description": "In this version we are come-up with set of new Features & Upgrades. here it is. \n New Logo & Brand name is have a changed to Penbyt.\nUI(User Experience) completely redesigned. \nThis version more faster and accessible compared to the previous version. \nIn this we added Exam-papers, Gate Materials, Discord community and more. "
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "title": "Premium Website Templates",
+    "image": "/products/p1.png",
+    "description": "Explore our exclusive collection of premium website templates, designed to accelerate your web development projects. Ideal for both beginners and experienced developers, these templates are built with HTML, CSS, Bootstrap, Tailwind CSS, and JavaScript to facilitate the creation of visually appealing and responsive websites effortlessly.",
+    "tags": ["web", "template", "bundle", "premium"],
+    "topTag": "Top Seller",
+    "rating": 4.7,
+    "reviews": 12,
+    "oldPrice": 999,
+    "price": 299,
+    "sales": 20,
+    "discounted": 80
+  },
+  {
+    "id": "2",
+    "title": "Premier Pro Ultimate Bundle",
+    "image": "/products/p2.png",
+    "description": "Elevate your video editing skills with the Premier Pro Ultimate Bundle. This package includes Adobe Premiere Pro software and essential video editing assets, compatible with both macOS and Windows. Start creating professional-grade videos with ease!",
+    "tags": ["video editing", "bundle", "Adobe Premiere Pro"],
+    "topTag": "bundle",
+    "rating": 4.8,
+    "reviews": 67,
+    "price": 99,
+    "oldPrice": 499,
+    "sales": 80
+  },
+  {
+    "id": "3",
+    "title": "Top Programming Languages Handwritten Notes PDF Bundle",
+    "image": "/products/p3.png",
+    "description": "Unlock valuable insights into top programming languages with our extensive handwritten notes bundle. This comprehensive PDF collection offers detailed notes and practical tips across various programming languages, designed for easy reference and effective learning.",
+    "tags": ["programming", "bundle", "notes"],
+    "topTag": "bundle",
+    "rating": 4.2,
+    "reviews": 46,
+    "price": 49,
+    "oldPrice": 149,
+    "sales": 3000
+  },
+  {
+    "id": "4",
+    "title": "Adobe Ultimate Bundle",
+    "image": "/products/p4.png",
+    "description": "Immerse yourself in the React.js ecosystem with the Adobe Ultimate Bundle. This comprehensive course offers a thorough exploration of building sophisticated web applications using React.js, making it an excellent choice for developers seeking to advance their skills.",
+    "tags": ["web development", "bundle", "React"],
+    "topTag": "bundle",
+    "rating": 4.0,
+    "reviews": 789,
+    "price": 199,
+    "oldPrice": 999,
+    "sales": 5000
+  }
+]

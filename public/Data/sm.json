@@ -1,0 +1,1220 @@
+{
+  "P1": {
+    "sem-1": [
+      {
+        "subject_name": "Mathematics I",
+        "URL": "https://drive.google.com/file/d/1PJ7oHs2KYH2UrJqyd_ifTc8qtTc5obmm/view?usp=drive_link",
+        "last_updated_date": "2024-01-15"
+      },
+      {
+        "subject_name": "Physics I",
+        "URL": "https://drive.google.com/drive/folders/1quSf-AK7PQpGLm4Fwv5c60KhyYH9fCLK?usp=sharing",
+        "last_updated_date": "2024-06-20"
+      },
+      {
+        "subject_name": "Chemistry I",
+        "URL": "http://example.com/chemistry1",
+        "last_updated_date": "2024-03-10"
+      },
+      {
+        "subject_name": "Telugu  I",
+        "URL": "https://drive.google.com/file/d/1xNhf0B-9X5--FJALajnXz0tlFPPDt67f/view?usp=sharing",
+        "last_updated_date": "2024-01-25"
+      },
+      {
+        "subject_name": "Information Technology I",
+        "URL": "https://drive.google.com/drive/folders/1PtE1hxZ4HtaLiVPQTls3exrZ0xwOFr-4?usp=sharing",
+        "last_updated_date": "2024-02-05"
+      },
+      {
+        "subject_name": "English I",
+        "URL": "http://example.com/english1",
+        "last_updated_date": "2004-03-01"
+      }
+    ],
+    "sem-2": [
+      {
+        "subject_name": "Mathematics II",
+        "URL": "https://drive.google.com/drive/folders/1eHrPkMxaxabBgEOlXbprw1dwWx7YSJeL?usp=sharing",
+        "last_updated_date": "2024-06-30"
+      },
+      {
+        "subject_name": "Physics II",
+        "URL": "https://drive.google.com/drive/folders/16qsHWxBaQ2euVVhbotArYgHzSqQWcYrt?usp=sharing",
+        "last_updated_date": "2024-05-20"
+      },
+      {
+        "subject_name": "Chemistry II",
+        "URL": "https://drive.google.com/drive/folders/1fVwFFE0mNs0shQOC7Wk_IbOhfkJsfq-3?usp=sharing",
+        "last_updated_date": "2024-06-10"
+      },
+      {
+        "subject_name": "Telugu II",
+        "URL": "https://drive.google.com/drive/folders/1OSX2F2vJnhlw3Nz1veL7LmaeIW4mr9mh?usp=sharing",
+        "last_updated_date": "2024-04-25"
+      },
+      {
+        "subject_name": "Information Technology II",
+        "URL": "https://drive.google.com/drive/folders/1yWyRGxHZ4MlEwAI07021A7iVO5F0t4E4?usp=sharing",
+        "last_updated_date": "2024-05-05"
+      },
+      {
+        "subject_name": "English II",
+        "URL": "http://example.com/english2",
+        "last_updated_date": "2024-06-01"
+      }
+    ]
+  },
+  "P2": {
+    "sem-1": [
+      {
+        "subject_name": "Mathematics III",
+        "URL": "https://drive.google.com/file/d/1PJ7oHs2KYH2UrJqyd_ifTc8qtTc5obmm/view?usp=drive_link",
+        "last_updated_date": "2024-06-05"
+      },
+      {
+        "subject_name": "Physics III",
+        "URL": "https://drive.google.com/drive/folders/1quSf-AK7PQpGLm4Fwv5c60KhyYH9fCLK?usp=sharing",
+        "last_updated_date": "2024-06-05"
+      },
+      {
+        "subject_name": "Chemistry III",
+        "URL": "https://drive.google.com/drive/folders/1fVwFFE0mNs0shQOC7Wk_IbOhfkJsfq-3?usp=sharing",
+        "last_updated_date": "2024-06-05"
+      },
+      {
+        "subject_name": "Information Technology III",
+        "URL": "https://drive.google.com/drive/folders/1PtE1hxZ4HtaLiVPQTls3exrZ0xwOFr-4?usp=sharing",
+        "last_updated_date": "2024-06-05"
+      },
+      {
+        "subject_name": "Telugu III",
+        "URL": "https://drive.google.com/file/d/1xNhf0B-9X5--FJALajnXz0tlFPPDt67f/view?usp=sharing",
+        "last_updated_date": "2024-06-05"
+      },
+      {
+        "subject_name": "Physics Lab III",
+        "URL": "https://drive.google.com/drive/folders/1elZkTxZX_IZfPE6IR_dfMbXLd5XCd8_0?usp=sharing",
+        "last_updated_date": "2024-06-05"
+      },
+      {
+        "subject_name": "Chemistry Lab III",
+        "URL": "https://drive.google.com/file/d/1B8CLaBjykI67FIzAij-nZgcMvXKLV-Jy/view?usp=sharing",
+        "last_updated_date": "2024-06-05"
+      }
+    ],
+    "sem-2": [
+      {
+        "subject_name": "Mathematics IV",
+        "URL": "https://drive.google.com/drive/folders/1eHrPkMxaxabBgEOlXbprw1dwWx7YSJeL?usp=sharing",
+        "last_updated_date": "2024-06-14"
+      },
+      {
+        "subject_name": "Physics IV",
+        "URL": "https://drive.google.com/drive/folders/16qsHWxBaQ2euVVhbotArYgHzSqQWcYrt?usp=sharing",
+        "last_updated_date": "2024-06-14"
+      },
+      {
+        "subject_name": "Chemistry IV",
+        "URL": "https://drive.google.com/drive/folders/1fVwFFE0mNs0shQOC7Wk_IbOhfkJsfq-3?usp=sharing",
+        "last_updated_date": "2024-06-14"
+      },
+      {
+        "subject_name": "Information Technology IV",
+        "URL": "https://drive.google.com/drive/folders/1yWyRGxHZ4MlEwAI07021A7iVO5F0t4E4?usp=sharing",
+        "last_updated_date": "2024-06-14"
+      },
+      {
+        "subject_name": "Telugu  IV",
+        "URL": "https://drive.google.com/drive/folders/1OSX2F2vJnhlw3Nz1veL7LmaeIW4mr9mh?usp=sharing",
+        "last_updated_date": "2024-06-14"
+      },
+      {
+        "subject_name": "Information Technology Lab IV",
+        "URL": "https://drive.google.com/drive/folders/193poikpcOIkjPavLfjgDZPMWLTMA3DOS?usp=sharing",
+        "last_updated_date": "2024-06-14"
+      }
+    ]
+  },
+  "Eng1": {
+    "CSE": {
+      "sem-1": [
+        {
+          "subject_name": "Calculus and Linear Algebra",
+          "URL": "https://drive.google.com/drive/folders/1YblDc9_yMN_PJp_O7JijMvTY6u_LUkwJ?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Basic Electrical and Electronic Engineering",
+          "URL": "https://drive.google.com/drive/folders/1Gj86S657xEBKMoSjqRM3Jr2d-ZxxDtPs?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Problem Solving and Programming Through C",
+          "URL": "https://drive.google.com/file/d/11h4nH0lWiufcg4GrQAILzRejCpM-ivvg/view?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Engineering Graphics and Computer Drafting",
+          "URL": "https://drive.google.com/drive/folders/1i25oLyiILNfBME-VaFsWpoNpuko4sbDl?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "English Language and Communication Skills LAB-1",
+          "URL": "https://drive.google.com/drive/folders/1_RTjjzM_pEicQ4POvNrfMaOSe_RGWX46?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Basic Electrical and Electronic Engineering Lab (CSE)",
+          "URL": "https://drive.google.com/file/d/1KS5h5l1PRd97ATagGwvvkG_AMOjca_EW/view?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Problem Solving and Programming Through C Lab",
+          "URL": "https://drive.google.com/drive/folders/18TWYWc11W4Bws9n1RDw0tNH4mLZReDns?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Indian Constitution",
+          "URL": "https://drive.google.com/file/d/1cc_OZphXDTIW9WUmtqBVVwZyesQDaGvT/view?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "Discrete Mathematics",
+          "URL": "https://drive.google.com/drive/folders/1S3Vdl-Vw0PKPK4nyCd4vIGte6APoY9Nv?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Engineering Physics (CSE)",
+          "URL": "https://drive.google.com/drive/folders/1EokUTta3tqN6reMMkMkoJxg-s46R_Pb_?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Managerial Economics & Finance Analysis",
+          "URL": "https://drive.google.com/file/d/1q3rzI7nBfZZpYGe6ZWRHHcxYJVGTDoyP/view?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Object Oriented Programming Through Java",
+          "URL": "https://drive.google.com/drive/folders/1ZOZSHXipmExLD85koa_I8xQXHM6zjaW9?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Data Structure and Algorithms",
+          "URL": "https://drive.google.com/drive/folders/173FEnqZTU-sw7pCq697Be73RI_1FqW0u?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Engineering Physics Lab (CSE)",
+          "URL": "https://drive.google.com/drive/folders/1CXNEQwxZSfs-xTk0o4Biv65HE8hqZiPe?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Data Structures Lab",
+          "URL": "https://drive.google.com/drive/folders/1XnKd1Er7iZNCztGnmTj6E-bqn5UtIzfo?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "OOPs Through Java Lab",
+          "URL": "https://drive.google.com/drive/folders/10QZGM9MIHXAql9rVHxpQBLZirwarz52L?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        },
+        {
+          "subject_name": "Environmental Science",
+          "URL": "https://drive.google.com/drive/folders/1S4t7txphy7g9Qzz9PAr_s6Hthu_x2CPj?usp=sharing",
+          "last_updated_date": "2024-06-20"
+        }
+      ]
+    },
+    "ECE": {
+      "sem-1": [
+        {
+          "subject_name": "Differential Equations and Multivariable Calculus (ECE)",
+          "URL": "https://drive.google.com/drive/folders/1Py4FrwyVq6dES95guDGL2DcbZkbI4ILg?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Engineering Physics (ECE)",
+          "URL": "https://drive.google.com/drive/folders/1iRffhhttBhMhqFQ_5Q2qMpkXKgPFSs8B?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Signals and Systems",
+          "URL": "https://drive.google.com/drive/folders/1VV8V_AqmCxUm60HXr1bmF5tX1QEAS8jQ?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Electrical Technology",
+          "URL": "https://drive.google.com/drive/folders/15zF25zysJYvtCV0MM1vv-YfEmBpZi73s?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Programming & Data Structures",
+          "URL": "https://drive.google.com/drive/folders/1jK7zyFnO57DH0as7ldn9wEN2jycfcjC8?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Engineering Physics Lab (ECE)",
+          "URL": "https://drive.google.com/drive/folders/1CXNEQwxZSfs-xTk0o4Biv65HE8hqZiPe?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Programming & Data Structures Lab (ECE)",
+          "URL": "https://drive.google.com/drive/folders/10gWR1avLIpHjUvd84F8V2M4XbLY8X4bg?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "Mathematical Methods (ECE)",
+          "URL": "https://drive.google.com/drive/folders/1yTOcNumy7CloNQeLr6nr1Td_9GKh6Aa6?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Object Oriented Programming",
+          "URL": "https://drive.google.com/drive/folders/17JoClBewp3RKcpWTg1kSQwVr75rdtuGy?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Network Theory",
+          "URL": "https://drive.google.com/drive/folders/1uqTnmlxaqfl7BGyDBPnmW4jn7ePnrP1n?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Electronics Devices and Circuits",
+          "URL": "https://drive.google.com/drive/folders/1i25oLyiILNfBME-VaFsWpoNpuko4sbDl?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Engineering Graphics and Design (ECE)",
+          "URL": "https://drive.google.com/drive/folders/1i25oLyiILNfBME-VaFsWpoNpuko4sbDl?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "Electronics Devices and Circuits Lab",
+          "URL": "https://drive.google.com/file/d/1kVO1nd_qKEVoG__3ZCYfTisaXI9D-cLq/view?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        },
+        {
+          "subject_name": "English Language and Communication Skills LAB-1",
+          "URL": "https://drive.google.com/drive/folders/1rZaWUo_GK2DGuLfKa-9JmLKWaB4mKZ9I?usp=sharing",
+          "last_updated_date": "2024-06-30"
+        }
+      ]
+    },
+    "EEE": {
+      "sem-1": [
+        {
+          "subject_name": "iweuthiuw",
+          "URL": "",
+          "last_updated_date": "19-07-2024"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Mech": {
+      "sem-1": [
+        {
+          "subject_name": "Differential Equations and Multivariable Calculus (MECH)",
+          "URL": "https://drive.google.com/drive/folders/1fNngxHes45_oQDFMmBal6s-40eYrcOYE?usp=drive_link",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Engineering Physics (Mech)",
+          "URL": "https://drive.google.com/drive/folders/1fexIk7vuGTNXsK_fKYqrA_p-dkCsnqUo?usp=drive_link",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Engineering Chemistry (Mech)",
+          "URL": "https://drive.google.com/drive/folders/1jyeGTFPlpeeZXKCXbzV8Z4ox81LH6zqq?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Basic Electrical and Electronic Engineering (Mech)",
+          "URL": "https://drive.google.com/drive/folders/1l-y9Bd-Jv9UFpNzJyk9YWxSoNrP6BwU3?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "English Language and Communication Skills LAB-1",
+          "URL": "https://drive.google.com/drive/folders/1rZaWUo_GK2DGuLfKa-9JmLKWaB4mKZ9I?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Engineering Chemistry Lab (Mech)",
+          "URL": "https://drive.google.com/drive/folders/14SfaUcu_S2ms9-PTRs9oRtEmkD1scz3i?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Basic Electrical and Electronic Engineering Lab (Mech)",
+          "URL": "https://drive.google.com/file/d/1KS5h5l1PRd97ATagGwvvkG_AMOjca_EW/view?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Engineering Physics Lab (Mech)",
+          "URL": "https://drive.google.com/drive/folders/1CXNEQwxZSfs-xTk0o4Biv65HE8hqZiPe?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "Mathematical Methods (Mech)",
+          "URL": "https://drive.google.com/drive/folders/11E8L2iadbo7DuSM3lqAVGh5733I_3Kcl?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Material Science & Metallurgy",
+          "URL": "https://drive.google.com/drive/folders/13e6lIaWQ5TJjjfK5WB4Zf-KSn_SJn5tP?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Engineering Mechanics (Mech)",
+          "URL": "https://drive.google.com/drive/folders/1FGQ6D5CYgcsIlhkiC_gNKVPQIW5b5CHz?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Programming & Data Structures (MECH)",
+          "URL": "https://drive.google.com/drive/folders/1mZyWUjeRetMDD33-VCRaxzzvw3klt-jF?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Engineering Graphics and Computer Drafting (Mech)",
+          "URL": "https://drive.google.com/drive/folders/1i25oLyiILNfBME-VaFsWpoNpuko4sbDl?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Programming & Data Structures Lab (MECH)",
+          "URL": "https://drive.google.com/drive/folders/10gWR1avLIpHjUvd84F8V2M4XbLY8X4bg?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Environmental Science",
+          "URL": "https://drive.google.com/drive/folders/1S4t7txphy7g9Qzz9PAr_s6Hthu_x2CPj?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        }
+      ]
+    },
+    "Civil": {
+      "sem-1": [
+        {
+          "subject_name": "Differential Equations and Multivariable Calculus (CIVIL)",
+          "URL": "https://drive.google.com/drive/folders/1fNngxHes45_oQDFMmBal6s-40eYrcOYE?usp=drive_link",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Engineering Chemistry",
+          "URL": "https://drive.google.com/drive/folders/1jyeGTFPlpeeZXKCXbzV8Z4ox81LH6zqq?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Programming & Data Structures (CIVIL)",
+          "URL": "https://drive.google.com/drive/folders/1mZyWUjeRetMDD33-VCRaxzzvw3klt-jF?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Engineering Graphics and Computer Drafting",
+          "URL": "https://drive.google.com/drive/folders/1i25oLyiILNfBME-VaFsWpoNpuko4sbDl?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "English Language and Communication Skills LAB-I",
+          "URL": "https://drive.google.com/drive/folders/1rZaWUo_GK2DGuLfKa-9JmLKWaB4mKZ9I?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Engineering Chemistry Lab",
+          "URL": "https://drive.google.com/drive/folders/14SfaUcu_S2ms9-PTRs9oRtEmkD1scz3i?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Programming & Data Structures Lab (CIVIL)",
+          "URL": "https://drive.google.com/drive/folders/10gWR1avLIpHjUvd84F8V2M4XbLY8X4bg?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "Mathematical Methods (CIVIL)",
+          "URL": "https://drive.google.com/drive/folders/1AWC8faS0J31lJ1Cmw__N3odhfjtjlv6K?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Engineering Physics (CIVIL)",
+          "URL": "https://drive.google.com/drive/folders/1HbVQN8FiiSdElMkFVaYG-twGQAFzFZHH?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Engineering Mechanics",
+          "URL": "https://drive.google.com/drive/folders/1XSONcWfrqbv95oq2hxq70A3IqDywia0v?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Engineering Geology",
+          "URL": "https://drive.google.com/drive/folders/1asVZcLD4zy2VCxZmE9-FKTyDvtdD0JHk?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Basic Electrical and Electronic Engineering (CIVIL)",
+          "URL": "https://drive.google.com/drive/folders/1l-y9Bd-Jv9UFpNzJyk9YWxSoNrP6BwU3?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Engineering Physics Lab (CIVIL)",
+          "URL": "https://drive.google.com/drive/folders/17J8D6HLKehrQQMqEPFSE8tcenx8TwHl5?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Workshop",
+          "URL": "https://drive.google.com/file/d/1sA7i0M6cfD_8fY4OIUl9ZSo1kLgP7oYx/view?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Environmental Science",
+          "URL": "https://drive.google.com/drive/folders/1S4t7txphy7g9Qzz9PAr_s6Hthu_x2CPj?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        }
+      ]
+    },
+    "Chemical": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "MME": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    }
+  },
+  "Eng2": {
+    "CSE": {
+      "sem-1": [
+        {
+          "subject_name": "Probability & Statistics (CSE)",
+          "URL": "https://drive.google.com/drive/folders/1YDa_ZLPyf8SraLtDp7IOf8rfoI4Lm_VZ?usp=sharing",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Digital Logic Design (CSE)",
+          "URL": "https://drive.google.com/drive/folders/1qRknXKYKYTKHD_3gc-fjdy7iVpzo0nYk?usp=sharing",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Design & Analysis of Algorithms",
+          "URL": "https://drive.google.com/drive/folders/1eSGkyY0gpQ-O_LakpCs42HMJM-N9Rfoe?usp=sharing",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Database Management System",
+          "URL": "https://drive.google.com/drive/folders/1sVXo9SQ1gip489wVKtliKPWOSfVFDEhl?usp=sharing",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Formal Language & Autpmata Theory",
+          "URL": "https://drive.google.com/drive/folders/1-NItjy2aRWaiIFPvv2P-70phEs1dH4wQ?usp=sharing",
+          "last_updated_date": "2024-06-24"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "Introduction to Operation Research",
+          "URL": "https://drive.google.com/drive/folders/1ptlut2doJRVbyb5x40tJH60ivT21OxeK?usp=sharing",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Computer Organization & Architecture",
+          "URL": "https://drive.google.com/drive/folders/1hpUIBI20eGHeg5tj1p0JZxP7Gj4qZWVM?usp=sharing",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Data Science with Python",
+          "URL": "https://drive.google.com/drive/folders/1iHtvM7yd6Nd1doTGpI05rOTE69ucKBs1?usp=drive_link",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Web Technologies",
+          "URL": "https://drive.google.com/drive/folders/1O54dHxuV8eMnP3R--hS_E7ke5EGnDWYh?usp=drive_link",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Compiler Design",
+          "URL": "https://drive.google.com/drive/folders/1wagXxzQI67qtGj2UlN5t_rKd6O0gU0Y4?usp=sharing",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Computer Organization & Architecture Lab",
+          "URL": "https://drive.google.com/drive/folders/17QYqNfi1zrTIx8UNJH-EQvLENSkyKGmu?usp=sharing",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Data Science with Python Lab",
+          "URL": "https://drive.google.com/drive/folders/17QYqNfi1zrTIx8UNJH-EQvLENSkyKGmu?usp=drive_link",
+          "last_updated_date": "2024-06-24"
+        },
+        {
+          "subject_name": "Web Technologies Lab",
+          "URL": "https://drive.google.com/drive/folders/17yA-uiCX7pDxfKVwFw7THwVLuMkI3rvb?usp=sharing",
+          "last_updated_date": "2024-06-24"
+        }
+      ]
+    },
+    "ECE": {
+      "sem-1": [
+        {
+          "subject_name": "Probability & Random Variables (ECE)",
+          "URL": "https://drive.google.com/drive/folders/1MGvqfxB3e-V-QB8Bq4X4VDb1IKpAnyIs?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Analog Electronic Circuits",
+          "URL": "https://drive.google.com/drive/folders/14Kw8yoc_uU59XxyXmpm2DoCfAG8NZETb?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Digital Logic Design (ECE)",
+          "URL": "https://drive.google.com/drive/folders/1vQosDf7NOuPi_YcDSLk-XuKuLwZlQw6G?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Digital Signal Processing",
+          "URL": "https://drive.google.com/drive/folders/1Cm4fbfXLoqdITkhFDWVPXSwaDBLWreZ3?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Control Systems",
+          "URL": "https://drive.google.com/drive/folders/109qJtUh8nqX7TmClSWWjunCskw7g-_Mh?usp=sharing",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "Robotics Laboratory",
+          "URL": "https://drive.google.com/drive/u/1/folders/1mrlgOPInZ6TCYMmD2z66KBTxqh8Kg9qH",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Communication Systems -1",
+          "URL": "https://drive.google.com/drive/u/1/folders/16dbL7WNuP0m2l5EFM7VW5cGKHbEwKL-l",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Digital System Design",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Linear Integrated Circuits",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Eletromagnetic Waves & Guided Media",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "EEE": {
+      "sem-1": [
+        {
+          "subject_name": "iweuthiuw",
+          "URL": "",
+          "last_updated_date": "19-07-2024"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Mech": {
+      "sem-1": [
+        {
+          "subject_name": "Transform Calculus",
+          "URL": "https://drive.google.com/drive/folders/17O3p86Ghb1_QQEPJA0b0k5UjVuff1hsi?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Kinematic of Machinery",
+          "URL": "https://drive.google.com/drive/folders/1-YNdbT_fUwjo6GAxgNmFRhLWI2AlRd6w?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Thermodynamics",
+          "URL": "https://drive.google.com/drive/folders/1UNoRsA5uO8X3AU2A4iNZ23GmQMl6OdEL?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Mechanics of Solids",
+          "URL": "https://drive.google.com/drive/folders/1Q9MzlIxMn-2YNLCkeLXT4TEphlxL5S0y?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Manufacturing Process",
+          "URL": "https://drive.google.com/drive/folders/13tQrdxFxTz9U5Z9dYYizUp98XNTdHjsk?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Mechanics of Solids Lab",
+          "URL": "https://drive.google.com/file/d/17HvR-G5rR5fdfVvRO8gFM00uAt31dyIk/view?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Computer Aided Machine Drawing",
+          "URL": "https://drive.google.com/drive/folders/1qD3-5_j7zHw9Vj-roqlTXSyYgIo_u-j5?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "Design of Machine Elements",
+          "URL": "https://drive.google.com/drive/folders/1UK0nWXUVeXit8nwdFgtESuUKGwlGXUDJ?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Dynamics of Machinery",
+          "URL": "https://drive.google.com/drive/folders/18s0mW8UIwu-FIU5H0YHsrijaAU8OrzkG?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Fluid Mechanics & Hydraulics Machinery",
+          "URL": "https://drive.google.com/drive/folders/1ZXPfxhfYKqto0MQ-UW9_ze2y91PDXMlU?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Metal Cutting & Machine Tools",
+          "URL": "https://drive.google.com/drive/folders/1MkBl3dJQ1_dndNsBVZXXWqutMDUq3yDG?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Probability & Statistics (Mech)",
+          "URL": "https://drive.google.com/drive/folders/1BQrWHpSyOTBPahHB-zFbIshgPoBlXqQ0?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Indian Constitution (Mech)",
+          "URL": "https://drive.google.com/file/d/1cc_OZphXDTIW9WUmtqBVVwZyesQDaGvT/view?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        }
+      ]
+    },
+    "Civil": {
+      "sem-1": [
+        {
+          "subject_name": "Concrete Technology",
+          "URL": "https://drive.google.com/drive/folders/10ofpJaoR4OjR-G4LHda2ofZeM2CxM8Kz?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Building Materials and Construction",
+          "URL": "https://drive.google.com/drive/folders/1zIJkl-DT0GZH3KeeKn2v4xaKJkaZaaDt?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Mechanics of Fluids",
+          "URL": "https://drive.google.com/drive/folders/1U6XD7PKqxm9eYkzu-SG8Rt0w2ZMvIyA5?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Managerial Economics & Finance Analysis",
+          "URL": "https://drive.google.com/drive/folders/1lZIBxloOxrRfTjm2ewXW1EMnaTi5CXA5?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Surveying - I",
+          "URL": "https://drive.google.com/drive/folders/1oAIa-vt90HF08p0X_VH6nCRvP0JXQj1F?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Mechanics of Materials - I",
+          "URL": "https://drive.google.com/drive/folders/1HFjvH4ctnTa__2OoZYZvAgjYn3T2ytxc?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Mechanics of Material Lab",
+          "URL": "https://drive.google.com/file/d/19TPuAnsDm_0eKfGxm3LUPICCLqOmRh-K/view?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Surveying -1 Lab",
+          "URL": "https://drive.google.com/drive/folders/1H7wKwx_iJqUEBfGCERmxmMeOFObdShlK?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        },
+        {
+          "subject_name": "Indian Constitution (CIVIL)",
+          "URL": "https://drive.google.com/file/d/1cc_OZphXDTIW9WUmtqBVVwZyesQDaGvT/view?usp=sharing",
+          "last_updated_date": "2024-01-07"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Chemical": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "MME": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    }
+  },
+  "Eng3": {
+    "CSE": {
+      "sem-1": [
+        {
+          "subject_name": "Operating System",
+          "URL": "https://drive.google.com/drive/folders/1CLqp7GQhxQVNW-JjdlJmr5uQDQsyW8is?usp=sharing",
+          "last_updated_date": "2024-11-14"
+        },
+        {
+          "subject_name": "Computer Networks",
+          "URL": "https://drive.google.com/drive/folders/1GVC_zX2wPear7AqsseTUOJsSh4ovMOdE?usp=sharing",
+          "last_updated_date": "2024-11-14"
+        },
+        {
+          "subject_name": "Software Engineering",
+          "URL": "https://drive.google.com/drive/folders/1IE7xHLRqb-0XgGhjLRQ9CmGu01CRcHEH?usp=sharing",
+          "last_updated_date": "2024-11-14"
+        },
+        {
+          "subject_name": "Mathematical Foundation for Data Science",
+          "URL": "https://drive.google.com/drive/folders/1ACC99FxlRICG074NLfDP7yCv8DONptlQ?usp=sharing",
+          "last_updated_date": "2024-11-14"
+        },
+        {
+          "subject_name": "Data Mining",
+          "URL": "https://drive.google.com/drive/folders/19wZT1Vv5c81J6oqDsE4Z4rFAgLWyjP4m?usp=sharing",
+          "last_updated_date": "2024-11-14"
+        },
+        {
+          "subject_name": "English Language and Communication Skills LAB-II",
+          "URL": "https://drive.google.com/drive/folders/1uVk7ILw_uw2Vpe4HDIw37PPJHNoW1Z7T?usp=sharing",
+          "last_updated_date": "2024-11-14"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "ECE": {
+      "sem-1": [
+        {
+          "subject_name": "Computer Networks (ECE)",
+          "URL": "https://drive.google.com/drive/folders/1szwXPLCISj8Ujb8qTajS6rKz2oRqSemU?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Computer Organization & Architecture (ECE)",
+          "URL": "https://drive.google.com/drive/folders/19xrd9fQoxQ5tfW8qSdc_gZrsfCLIMzGM?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Communication Systems -2",
+          "URL": "https://drive.google.com/drive/folders/1kURAUBv5WpktshkMLEQV8gxJxjJHmtTq?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Radio Frequency & Microwave Lab",
+          "URL": "https://drive.google.com/drive/folders/1_8AtQlhpZDMFD1QMN09J3d8ZB_r3nlmz?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Microprocessors, Microcontrollers & Computer",
+          "URL": "https://drive.google.com/drive/folders/1bJY-v3ViVFLdToswEHsc0Vfs5y0EMVRC?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "English Language and Communication Skills LAB-II",
+          "URL": "https://drive.google.com/drive/folders/1FW6Gu3exx_72Dmg5evVV588-w3rTOqk0?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "Building Planning and Computer Aided Drawing Lab",
+          "URL": "https://drive.google.com/drive/folders/1A6srLzAcEBgZ2j63MTJ3w8eAQ4l6LS-K?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Design of Steel Structures",
+          "URL": "https://drive.google.com/drive/folders/1fZmklS_fd-vhwxpihHv9xCJjffx2OR7z?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Environmental Engineering - II",
+          "URL": "https://drive.google.com/drive/folders/1Cc5XSPzX-VvNj6UXHhbDWumTs3nGiujz?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Foundation Engineering",
+          "URL": "https://drive.google.com/drive/folders/1hgKLUqxtmTJJQJAzHCOhxDmGoRiGCCfI?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Transportation Engineering - II",
+          "URL": "https://drive.google.com/drive/folders/1oahY7ww-LnWa-FCQ1E3QZpsSb2AnQvhN?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "English Language and Communication Skills LAB-III",
+          "URL": "https://drive.google.com/drive/folders/1LEyzqpWyYfU55UnzfZa3Cyi820dUcKZ5?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "MOOC-1",
+          "URL": "https://drive.google.com/drive/folders/1BAH3xgOiWoGbPN5ztpiLDHeRGN_Ouv1S?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        },
+        {
+          "subject_name": "Environmental Engineering Lab",
+          "URL": "https://drive.google.com/drive/folders/1YAdSILt-fvCcLuHZrVHqiG2cN5NeXSEs?usp=sharing",
+          "last_updated_date": "2024-02-07"
+        }
+      ]
+    },
+    "EEE": {
+      "sem-1": [
+        {
+          "subject_name": "iweuthiuw",
+          "URL": "",
+          "last_updated_date": "19-07-2024"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Mech": {
+      "sem-1": [
+        {
+          "subject_name": "Heat Transfer",
+          "URL": "https://drive.google.com/drive/folders/12PEr9fufBn6OwfQVlFC-pLGKZtlXuVax?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Design of Transmission Elements",
+          "URL": "https://drive.google.com/drive/folders/1tfGcZjPEJ8FlLcsgnZM-SYEhZH-scg0w?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Applied Thermodynamics",
+          "URL": "https://drive.google.com/drive/folders/1tu6-oQRzLG4_e-29ZZTHK7B-VKjW8xzU?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "Metrology and Mechanical Measurements",
+          "URL": "https://drive.google.com/drive/folders/1Tk7bNgdtKxBhMHykayOFWD0bSqnvsntm?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        },
+        {
+          "subject_name": "English Language and Communication Skills LAB-II",
+          "URL": "https://drive.google.com/drive/folders/1CFKYKQMf12k51VwNN6-3oeGf_SDIv7BD?usp=sharing",
+          "last_updated_date": "2024-03-07"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "Operations Research",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Finite Elements Method",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Managerial Economics & Finance Analysis (Mech)",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Program Elective Course - I",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Program Elective Course - II",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "English Language and Communication Skills LAB-III",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Civil": {
+      "sem-1": [
+        {
+          "subject_name": "Advanced Structural Analysis",
+          "URL": "https://drive.google.com/drive/folders/1mmNU0qBTQ_du_7F7Pj_wueBChxNHg_n5?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Design of Reinforced Concrete Strcutures",
+          "URL": "https://drive.google.com/drive/folders/19JczQiR6ILNIHXqYLDiihiGyjF7W_Rlx?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Environmental Engineering - I",
+          "URL": "https://drive.google.com/drive/folders/1tuQRZJPpKy3KTzONR5zA2NM955g7N80h?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Estimating and Costing",
+          "URL": "https://drive.google.com/drive/folders/16SiMKpFOTs5kvjuLgCTHnj0od_5IMPMl?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Transportation Engineering - I",
+          "URL": "https://drive.google.com/drive/folders/1qMSCU5cDA3DMhz8BFgbCdYwEQKcySsKT?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "English Language and Communication Skills LAB-II",
+          "URL": "https://drive.google.com/drive/folders/1CFKYKQMf12k51VwNN6-3oeGf_SDIv7BD?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Soil Mechanics Lab",
+          "URL": "https://drive.google.com/drive/folders/1Q6lw4cxTmQaYfM1ppQfSHEI1wDMrHOnL?usp=sharing",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "Transportation Engineering - Lab",
+          "URL": "https://drive.google.com/drive/folders/1pv8nFDSqssVtlw1QC8dnAbh7hCcH0tJA?usp=sharing",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Chemical": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "MME": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    }
+  },
+  "Eng4": {
+    "CSE": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "ECE": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "EEE": {
+      "sem-1": [
+        {
+          "subject_name": "iweuthiuw",
+          "URL": "",
+          "last_updated_date": "19-07-2024"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Mech": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Civil": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Chemical": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "MME": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    }
+  }
+}

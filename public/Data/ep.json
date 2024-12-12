@@ -1,0 +1,610 @@
+{
+  "P1": {
+    "sem-1": [
+      {
+        "subject_name": "Mathematics I - EP",
+        "URL": "http://example.com/mathematics1",
+        "last_updated_date": "2024-01-15"
+      },
+      {
+        "subject_name": "Physics I",
+        "URL": "http://example.com/physics1",
+        "last_updated_date": "2024-06-20"
+      },
+      {
+        "subject_name": "Chemistry I",
+        "URL": "http://example.com/chemistry1",
+        "last_updated_date": "2024-03-10"
+      },
+      {
+        "subject_name": "Introduction to Engineering",
+        "URL": "http://example.com/introduction-to-engineering",
+        "last_updated_date": "2024-01-25"
+      },
+      {
+        "subject_name": "Computer Science I",
+        "URL": "http://example.com/computer-science1",
+        "last_updated_date": "2024-02-05"
+      },
+      {
+        "subject_name": "English I",
+        "URL": "http://example.com/english1",
+        "last_updated_date": "2004-03-01"
+      }
+    ],
+    "sem-2": [
+      {
+        "subject_name": "Mathematics II",
+        "URL": "",
+        "last_updated_date": "2024-06-30"
+      },
+      {
+        "subject_name": "Physics II",
+        "URL": "http://example.com/physics2",
+        "last_updated_date": "2024-05-20"
+      },
+      {
+        "subject_name": "Chemistry II",
+        "URL": "http://example.com/chemistry2",
+        "last_updated_date": "2024-06-10"
+      },
+      {
+        "subject_name": "Engineering Mechanics",
+        "URL": "http://example.com/engineering-mechanics",
+        "last_updated_date": "2024-04-25"
+      },
+      {
+        "subject_name": "Computer Science II",
+        "URL": "http://example.com/computer-science2",
+        "last_updated_date": "2024-05-05"
+      },
+      {
+        "subject_name": "English II",
+        "URL": "http://example.com/english2",
+        "last_updated_date": "2024-06-01"
+      }
+    ]
+  },
+  "P2": {
+    "sem-1": [
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      },
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      },
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      },
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      },
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      },
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      }
+    ],
+    "sem-2": [
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      },
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      },
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      },
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      },
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      },
+      {
+        "subject_name": "",
+        "URL": "",
+        "last_updated_date": ""
+      }
+    ]
+  },
+  "Eng1": {
+    "CSE": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "ECE": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "EEE": {
+      "sem-1": [
+        {
+          "subject_name": "iweuthiuw",
+          "URL": "",
+          "last_updated_date": "19-07-2024"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Mech": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Civil": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Chemical": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "MME": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    }
+  },
+  "Eng2": {
+    "CSE": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "ECE": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "EEE": {
+      "sem-1": [
+        {
+          "subject_name": "iweuthiuw",
+          "URL": "",
+          "last_updated_date": "19-07-2024"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Mech": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Civil": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Chemical": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "MME": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    }
+  },
+  "Eng3": {
+    "CSE": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "ECE": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "EEE": {
+      "sem-1": [
+        {
+          "subject_name": "iweuthiuw",
+          "URL": "",
+          "last_updated_date": "19-07-2024"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Mech": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Civil": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Chemical": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "MME": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    }
+  },
+  "Eng4": {
+    "CSE": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "ECE": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "EEE": {
+      "sem-1": [
+        {
+          "subject_name": "iweuthiuw",
+          "URL": "",
+          "last_updated_date": "19-07-2024"
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Mech": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        },
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Civil": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "Chemical": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    },
+    "MME": {
+      "sem-1": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ],
+      "sem-2": [
+        {
+          "subject_name": "",
+          "URL": "",
+          "last_updated_date": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "1": [
+    {
+      "title": "Introducing penbyt",
+      "subtitle": "New Dashboard",
+      "urlButton": "penbyt",
+      "url": "https://penbyt.in",
+      "image": "/images/1.2.0/dashboard-features.png",
+      "description": "Added new dashboard features to provide more insights.\nImplemented data visualization tools.\nIntroduced customizable widgets.",
+      "date": "25 August 2024",
+      "author": "John Doe"
+    },
+    {
+      "title": "Security Enhancements",
+      "subtitle": "Better Security",
+      "image": "/images/1.2.1/security-enhancements.png",
+      "description": "Enhanced security measures to protect user data.Improved encryption protocols.Added two-factor authentication."
+    }
+  ],
+  "2": [
+    {
+      "title": "Introducing penbyt",
+      "subtitle": "New Dashboard",
+      "image": "/images/1.2.0/dashboard-features.png",
+      "description": "Added new dashboard features to provide more insights.\nImplemented data visualization tools.\nIntroduced customizable widgets.",
+      "date": "2024-08-01",
+      "author": "John Doe"
+    }
+  ]
+}

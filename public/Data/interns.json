@@ -1,0 +1,74 @@
+[
+  {
+    "name": "C S Padmavathi",
+    "uid": "PI24001",
+    "type": "Full Stack Web development",
+    "duration": "2 Months",
+    "badge": "Completed",
+    "rating": "4.6/5"
+  },
+  {
+    "name": "DASARI SAHITHYA",
+    "uid": "PI24002",
+    "type": "Full Stack Web development",
+    "duration": "2 Months",
+    "badge": "Completed",
+    "rating": "3.9/5"
+  },
+  {
+    "name": "Venkatachalapathi Chandana",
+    "uid": "PI24003",
+    "type": "Full Stack Web development",
+    "duration": "2 Months",
+    "badge": "Completed",
+    "rating": "3.7/5"
+  },
+  {
+    "name": "D VANITHA",
+    "uid": "PI24004",
+    "type": "Full Stack Web development",
+    "duration": "2 Months",
+    "badge": "Completed",
+    "rating": "4.0/5"
+  },
+  {
+    "name": "Swetha poojari",
+    "uid": "PI24005",
+    "type": "Full Stack Web development",
+    "duration": "2 Months",
+    "badge": "Completed",
+    "rating": "4.0/5"
+  },
+  {
+    "name": "JINKA CHENCHU DHARANI",
+    "uid": "PI24006",
+    "type": "Full Stack Web development",
+    "duration": "2 Months",
+    "badge": "Completed",
+    "rating": "3.2/5"
+  },
+  {
+    "name": "Srinu Bandlamudi",
+    "uid": "PI24007",
+    "type": "Full Stack Web development",
+    "duration": "2 Months (15/04/24 - 15/06/24)",
+    "badge": "Completed",
+    "rating": "4.5/5"
+  },
+  {
+    "name": "TARIGONDA AYSHA KHANAM",
+    "uid": "PI24008",
+    "type": "Full Stack Web development",
+    "duration": "2 Months",
+    "badge": "Completed",
+    "rating": "4.1/5"
+  },
+  {
+    "name": "Jane Smith",
+    "uid": "002",
+    "type": "Intern",
+    "duration": "1",
+    "badge": "Working",
+    "rating": "Good"
+  }
+]

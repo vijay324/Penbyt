@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1",
+    "tag": "Top Seller",
+    "title": "Premium Website Templates",
+    "image": "/products/p1.png",
+    "description": "Discover our exclusive range of premium website templates designed to streamline your web development process. Suitable for both novices and seasoned developers, these templates are crafted with HTML, CSS, Bootstrap, Tailwind CSS, and JavaScript to help you create visually appealing and responsive websites with ease.",
+    "link": "https://imjo.in/eUkB2a",
+    "rating": 4.7,
+    "reviews": 12,
+    "oldPrice": 999,
+    "price": 299,
+    "sales": 20,
+    "discounted": 80,
+    "moredetails": [
+      {
+        "title": "Validity & Updates",
+        "description": "This product is available as a one-time purchase, providing lifetime validity and updates."
+      },
+      {
+        "title": "Additional Details",
+        "description": "Our premium website templates are designed to enhance your web development projects. They are compatible with HTML, CSS, Bootstrap, Tailwind CSS, SCSS, and JavaScript. A demo video is available for further insight."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Premier Pro Ultimate Bundle",
+    "image": "/products/p2.png",
+    "description": "Enhance your video editing capabilities with the Premier Pro Ultimate Bundle. This package includes Adobe Premiere Pro software along with essential video editing assets, suitable for both macOS and Windows platforms. Start creating high-quality videos effortlessly.",
+    "tags": ["video editing", "bundle", "Adobe Premiere Pro"],
+    "link": "https://imjo.in/32ZKwg",
+    "rating": 4.8,
+    "reviews": 67,
+    "oldPrice": 499,
+    "price": 99,
+    "sales": 80,
+    "moredetails": [
+      {
+        "title": "Validity & Updates",
+        "description": "This is a one-time purchase product, offering lifetime validity and updates."
+      },
+      {
+        "title": "Additional Details",
+        "description": "The Premier Pro Ultimate Bundle includes software compatible with both macOS and Windows 10/11. It features a comprehensive suite of video editing assets such as YouTube packs, wedding packs, transitions, text animations, sound effects, royalty-free music, presets, plugins, PDF guides, overlays, meme packs, LUTs, and more."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Top Programming Languages Handwritten Notes PDF Bundle",
+    "image": "/products/p3.png",
+    "description": "Access valuable insights into leading programming languages with our extensive handwritten notes PDF bundle. This collection provides detailed notes and practical tips on various programming languages, designed for easy reference and effective learning.",
+    "tags": ["programming", "bundle", "notes"],
+    "link": "https://imjo.in/K6PqBM",
+    "rating": 4.2,
+    "reviews": 456,
+    "oldPrice": 149,
+    "price": 49,
+    "sales": 3000,
+    "moredetails": [
+      {
+        "title": "Validity & Updates",
+        "description": "This product is a one-time purchase with lifetime validity and updates."
+      },
+      {
+        "title": "Additional Details",
+        "description": "This bundle offers extensive handwritten notes covering programming languages such as Python, C, C++, Java, JavaScript, Node.js, PHP, HTML, React.js, and data structures."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Adobe Ultimate Bundle",
+    "image": "/products/p4.png",
+    "description": "Unlock the full potential of Adobe's creative suite with our Adobe Ultimate Bundle. Perfect for web developers and React enthusiasts, this package includes access to the entire Adobe suite including Photoshop, Premiere Pro, After Effects, and Illustrator. Enjoy lifetime validity and updates with a one-time purchase. Bonus resources include Photoshop posters, icons, and prebuilt templates.",
+    "tags": ["web development", "course", "React"],
+    "link": "https://imjo.in/rXW4p3",
+    "rating": 4.0,
+    "reviews": 789,
+    "oldPrice": 999,
+    "price": 199,
+    "sales": 5000,
+    "moredetails": [
+      {
+        "title": "Validity & Updates",
+        "description": "This is a one-time purchase product, ensuring lifetime validity and updates."
+      },
+      {
+        "title": "Additional Details",
+        "description": "The Adobe Ultimate Bundle includes access to a comprehensive suite of Adobe products such as Photoshop, Premiere Pro, After Effects, and Illustrator. Additionally, receive bonus Photoshop posters, icons, and prebuilt templates."
+      }
+    ]
+  }
+]
