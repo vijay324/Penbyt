@@ -26,4 +26,17 @@ export const teamMembers: TeamMember[] = [
     },
     portfolio: "https://alwayssvk.vercel.app",
   },
+  {
+    name: "Sunil",
+    title: "Content Manager",
+    image: "/sunil.svg",
+    description:
+      "Sunil is manages whole content on this site. His expertise in managing talent and guiding organizational vision ensures that Penbyt remains at the forefront of our industry.",
+    socialMedia: {
+      linkedin: "https://www.linkedin.com/in/bayikati-sunil-3b6759280",
+      twitter: "https://x.com/wisemensiddhu/",
+      instagram: "https://www.instagram.com/wise_men_siddhu/",
+    },
+    portfolio: "https://sunilportfolio.com",
+  },
 ];
