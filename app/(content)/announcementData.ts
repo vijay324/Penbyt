@@ -18,6 +18,6 @@ export const announcements: Announcement[] = [
     description:
       "Stay tuned for exclusive content on the latest Cybersecurity trends, hacking technics and upcoming technology. Subscribe now to get notified!",
     channelLogo: "/EHV.png",
-    subscribeUrl: "https://www.youtube.com/@Ethicalhackervijayy",
+    subscribeUrl: "https://www.youtube.com/@Ethicalhackervijay",
   },
 ];

@@ -1,7 +1,8 @@
 import React from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { Cover } from "../../components/ui/cover";
+import { Grid } from "../../(company)/about/OurValues"; // Import the Grid component from Our Values
+
 const InfoCards = () => {
   const cards = [
     {
@@ -49,44 +50,49 @@ const InfoCards = () => {
   ];
 
   return (
-    <div className="container mx-auto px-4 py-8 ">
-      <div className="text-center mb-8 pt-3">
-        <h1 className="text-4xl md:text-4xl pb-6 lg:text-6xl font-semibold max-w-7xl mx-auto text-center mt-6 relative z-20 py-6 bg-clip-text text-transparent bg-gradient-to-b from-purple-300 to-purple-700">
-          Empower Your Journey with our
-          <br />
-        </h1>
-        <Cover className="text-4xl md:text-4xl lg:text-6xl font-semibold max-w-7xl mx-auto text-center relative z-20">
-          Resources
-        </Cover>
+    <div className="py-20 lg:py-40 dark:bg-zinc-950">
+      <div className="max-w-7xl mx-auto text-center pb-8">
+        <h2 className="text-base font-semibold tracking-wide uppercase text-purple-600">
+          Our Resources
+        </h2>
+        <p className="mt-1 text-4xl font-extrabold dark:text-white text-zinc-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
+          Empowering Your Learning Journey
+        </p>
+        <p className="max-w-xl mt-5 mx-auto text-xl dark:text-white text-zinc-500">
+          Access comprehensive resources for academic and professional success.
+        </p>
       </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-7xl mx-auto">
         {cards.map((card, index) => (
           <motion.a
             key={index}
             href={card.href}
-            className="flex items-start p-6 bg-white dark:bg-zinc-900 rounded-3xl shadow-md dark:hover:shadow-zinc-600 transition-shadow duration-300 transform hover:scale-105"
+            className="relative bg-gradient-to-b dark:from-neutral-900 from-neutral-100 dark:to-neutral-950 to-white p-6 rounded-3xl overflow-hidden shadow-md dark:shadow-zinc-800 hover:shadow-xl transition-shadow duration-300"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: index * 0.1 }}
           >
-            <div className="text-4xl mr-4">{card.icon}</div>
-            <div>
-              <h2 className="text-xl font-semibold mb-2 dark:text-zinc-300">
-                {card.title}
-              </h2>
-              <p className="text-zinc-700 dark:text-zinc-300">
-                {card.description}
-              </p>
+            <Grid size={20} /> {/* Adds the grid background */}
+            <div className="relative z-20 flex items-start space-x-4">
+              <div className="text-4xl">{card.icon}</div>
+              <div>
+                <h2 className="text-xl font-bold dark:text-white text-neutral-800">
+                  {card.title}
+                </h2>
+                <p className="mt-2 text-base dark:text-neutral-400 text-neutral-600">
+                  {card.description}
+                </p>
+              </div>
             </div>
-            <div className="ml-auto text-zinc-400">
+            <div className="absolute top-4 right-4 z-20">
               <Image
                 src="/arrow-top.svg"
-                width={60}
-                height={60}
-                alt="LinkedIn"
-                className="dark:filter dark:invert dark:brightness-0 dark:contrast-200"
+                width={20}
+                height={20}
+                alt="Arrow Icon"
+                className="dark:invert"
               />
             </div>
           </motion.a>
