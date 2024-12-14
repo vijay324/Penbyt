@@ -35,10 +35,6 @@ This repository contains the code of <a href="https://penbyt.com/" target="_blan
 
 If you get a study materials, this is the perfect resource for you.
 
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-  <img src="https://github.com/user-attachments/assets/54ef6cd0-1f00-4989-a6a5-3f77ca3f68a2" style="width: 150px; height: auto;" />
-</a>
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Penbyt is a comprehensive study material platform where users can explore a wealth of resources. This project leverages Next.js to create a seamless, full-stack experience. You will master modern web development techniques while building features inspired by community-driven platforms, enhanced with AI capabilities and engaging user interactions.
