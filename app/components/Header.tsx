@@ -16,9 +16,9 @@ const people = [
   },
   {
     id: 2,
-    name: "Sunil",
+    name: "S.VIJAY KUMAR",
     designation: "Content Manager",
-    image: "/sunil.svg",
+    image: "/vijay.svg",
   },
 ];
 

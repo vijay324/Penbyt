@@ -1,6 +1,6 @@
 ---
 title: "Introducing PenGPT: The AI Revolution in Educational Support"
-date: "September 7, 2024"
+date: "December 7, 2024"
 author: "S.VIJAY KUMAR"
 image: "/b2.png"
 urlTitle: "PenGPT"

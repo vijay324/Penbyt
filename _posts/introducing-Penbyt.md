@@ -1,6 +1,6 @@
 ---
 title: "Introducing Penbyt: Your Ultimate Content Hub for IIIT Students"
-date: "August 25, 2023"
+date: "December 07, 2024"
 author: "S.VIJAY KUMAR"
 image: "/b1.png"
 urlTitle: "Penbyt"

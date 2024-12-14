@@ -15,10 +15,10 @@ export interface TeamMember {
 export const teamMembers: TeamMember[] = [
   {
     name: "S. Vijay Kumar",
-    title: "Chief Technology Officer",
+    title: "Full Stack Developer",
     image: "/vijay.svg",
     description:
-      "Hi,👋🏻 I'm S. Vijay Kumar, Co-Founder & CTO(Full stack developer) of Penbyt. With a passion for technology and innovation, I lead our technical strategies and product development.",
+      "Hi,👋🏻 I'm S. Vijay Kumar, Founder & CTO(Full stack developer) of Penbyt. With a passion for technology and innovation, I lead our technical strategies and product development.",
     socialMedia: {
       linkedin: "https://linkedin.com/in/vijaykumar",
       twitter: "https://twitter.com/always_svk",
@@ -27,16 +27,16 @@ export const teamMembers: TeamMember[] = [
     portfolio: "https://alwayssvk.vercel.app",
   },
   {
-    name: "Sunil",
+    name: "S.VIJAY KUMAR",
     title: "Content Manager",
-    image: "/sunil.svg",
+    image: "/vijay.svg",
     description:
-      "Sunil is manages whole content on this site. His expertise in managing talent and guiding organizational vision ensures that Penbyt remains at the forefront of our industry.",
+      "S.VIJAY KUMAR is manages whole content on this site. His expertise in managing talent and guiding organizational vision ensures that Penbyt remains at the forefront of our industry.",
     socialMedia: {
-      linkedin: "https://www.linkedin.com/in/bayikati-sunil-3b6759280",
-      twitter: "https://x.com/wisemensiddhu/",
-      instagram: "https://www.instagram.com/wise_men_siddhu/",
+      linkedin: "https://linkedin.com/in/vijaykumar",
+      twitter: "https://twitter.com/always_svk",
+      instagram: "https://www.instagram.com/always_svk/",
     },
-    portfolio: "https://sunilportfolio.com",
+    portfolio: "https://alwayssvk.vercel.app",
   },
 ];
