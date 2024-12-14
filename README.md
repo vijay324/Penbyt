@@ -1,11 +1,10 @@
 
 <img width="1188" alt="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner" src="https://github.com/user-attachments/assets/943f3919-ba60-484d-8e81-147db3287cc1" />
 
-<h3 align="center">The Penbyt</h3>
-
    <div align="center">
-     A study material website <a href="https://www.penbyt.com" target="_blank"><b>Go to Penbyt</b></a> Website. Join the Penbyt family!
+     <h3 align="center">A study material website <a href="https://www.penbyt.com" target="_blank"><b>Go to Penbyt</b></a> Website. Join the Penbyt family!</h3>
     </div>
+    
 <div align="center">
 
   <div>
@@ -129,7 +128,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-# <a name="Contribution">📦 Contribution Guide :</a>
+## <a name="Contribution">📦 Contribution Guide :</a>
 
 Thank you for your interest in contributing to Penbyt! This guide will help you get started with contributing to our project.
 
