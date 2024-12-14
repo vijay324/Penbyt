@@ -13,7 +13,7 @@
      <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logoColor=white&logo=docker&color=2496ED" alt="docker" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
-    <img src="https://img.shields.io/badge/-ShadCN_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
+    <!-- <img src="https://img.shields.io/badge/-ShadCN_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" /> -->
     <!-- <img src="https://img.shields.io/badge/-Open_AI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" /> -->
   </div> 
  
@@ -68,7 +68,7 @@ Join our active community on Discord, where you can connect with over 5,000 memb
 
 👉 **Community**: We have active community on Discord.
 
-👉 **Responsive Design**: Fully optimized for a seamless experience on desktops, tablets, and mobile devices.
+👉 **Responsive Design**: Fully optimized for a seamless experience on desktops, tablets, and mobile devices. This website supports both light & dark mode support.
 
 👉 **High Performance**: Fast loading and smooth interactions for an efficient user experience.
 
