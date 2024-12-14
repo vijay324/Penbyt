@@ -1,3 +1,6 @@
+
+<img width="1188" alt="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner" src="https://github.com/user-attachments/assets/943f3919-ba60-484d-8e81-147db3287cc1" />
+
 <h3 align="center">The Penbyt</h3>
 
    <div align="center">
