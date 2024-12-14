@@ -1,5 +1,6 @@
 "use client";
-import React from "react";
+
+import React, { useRef } from "react";
 import {
   motion,
   useAnimationFrame,
@@ -7,7 +8,6 @@ import {
   useMotionValue,
   useTransform,
 } from "framer-motion";
-import { useRef } from "react";
 import { cn } from "@/utils/cn";
 
 export function Button({
@@ -22,7 +22,7 @@ export function Button({
 }: {
   borderRadius?: string;
   children: React.ReactNode;
-  as?: any;
+  as?: React.ElementType;
   containerClassName?: string;
   borderClassName?: string;
   duration?: number;
@@ -32,7 +32,7 @@ export function Button({
   return (
     <Component
       className={cn(
-        "bg-transparent relative text-xl  w-40 h-10 p-[1px] overflow-hidden ",
+        "bg-transparent relative text-xl w-40 h-10 p-[1px] overflow-hidden",
         containerClassName
       )}
       style={{
@@ -82,8 +82,8 @@ export const MovingBorder = ({
   ry?: string;
   [key: string]: any;
 }) => {
-  const pathRef = useRef<any>();
-  const progress = useMotionValue<number>(0);
+  const pathRef = useRef<SVGRectElement | null>(null);
+  const progress = useMotionValue(0);
 
   useAnimationFrame((time) => {
     const length = pathRef.current?.getTotalLength();
@@ -95,11 +95,11 @@ export const MovingBorder = ({
 
   const x = useTransform(
     progress,
-    (val) => pathRef.current?.getPointAtLength(val).x
+    (val) => pathRef.current?.getPointAtLength(val)?.x || 0
   );
   const y = useTransform(
     progress,
-    (val) => pathRef.current?.getPointAtLength(val).y
+    (val) => pathRef.current?.getPointAtLength(val)?.y || 0
   );
 
   const transform = useMotionTemplate`translateX(${x}px) translateY(${y}px) translateX(-50%) translateY(-50%)`;
