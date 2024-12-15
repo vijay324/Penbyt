@@ -41,8 +41,6 @@ Penbyt is a comprehensive study material platform where users can explore a weal
 
 The platform includes a robust MongoDB database, secure authentication via NextAuth, and a sleek user interface designed with TailwindCSS and ShadCN UI. Penbyt enables users to ask questions, share answers, and utilize AI-generated insights—all within a gamified experience that rewards participation.
 
-Join our active community on Discord, where you can connect with over 5,000 members ready to support you!
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
