@@ -71,7 +71,7 @@ const Header = () => {
             borderRadius="1.75rem"
             className="bg-white dark:bg-slate-900 text-black dark:text-white border-neutral-200 dark:border-purple-800 "
           >
-            <Link href="/about">About Us</Link>
+            <Link href="https://chat.penbyt.com">Try PenGPT</Link>
           </Button>
         </div>
         <h1 className="text-neutral-600 dark:text-neutral-200 text-xs sm:text-base mt-5">
